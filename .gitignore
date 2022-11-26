@@ -1,0 +1,10 @@
+.vscode
+testing-project
+.mypy_cache
+poetry.lock
+dev-link/
+.coverage
+htmlcov
+.idea
+venv
+__pycache__
