@@ -1,5 +1,5 @@
-# websocket-pubsub
-fastapi + websocket + pub/sub redis
+# create docker image from user script + websocket-pubsub
+fastapi  + websocket + pub/sub redis
 
 
 
